@@ -43,10 +43,3 @@ Menu options include:
 6) Get Number of Students in School
 7) Get All Student Details
 8) Get Class Student Details
-
-
-
-
-
-✅ help you upload it step-by-step
-Just tell me! 😊💛
